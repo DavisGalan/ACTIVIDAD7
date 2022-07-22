@@ -1,0 +1,11 @@
+section.container.d-flex {
+    margin-top: 60px;
+    margin-bottom: 100px;
+}
+
+
+input.form-control {
+    border:black solid;
+    border-radius: 5px;
+
+}
